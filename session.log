@@ -1,0 +1,37 @@
+15:42:42 [DEBUG] Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+15:42:42 [DEBUG] Creating converter from 7 to 5
+15:42:42 [DEBUG] Creating converter from 5 to 7
+15:42:42 [DEBUG] Creating converter from 7 to 5
+15:42:42 [DEBUG] Creating converter from 5 to 7
+15:42:43 [INFO] Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+15:42:43 [INFO] NumExpr defaulting to 8 threads.
+15:43:04 [INFO] Loading pretrained model!
+15:43:04 [DEBUG] Creating converter from 3 to 5
+15:43:05 [DEBUG] Layer lstm will use cuDNN kernels when running on GPU.
+15:43:05 [DEBUG] Layer lstm_1 will use cuDNN kernels when running on GPU.
+15:43:05 [DEBUG] Layer lstm_2 will use cuDNN kernels when running on GPU.
+15:43:10 [INFO] Classified blues.00022.wav as blues.
+15:43:11 [INFO] Classified classical.00012.wav as classical.
+15:43:12 [INFO] Classified jazz.00024.wav as jazz.
+15:43:14 [INFO] Classified reggae.00022.wav as reggae.
+15:43:15 [INFO] Classified reggae.00024.wav as reggae.
+15:43:16 [INFO] Classified reggae.00023.wav as reggae.
+15:43:17 [INFO] Classified rock.00046.wav as rock.
+15:43:18 [INFO] Classified rock.00035.wav as rock.
+15:43:20 [INFO] Classified rock.00037.wav as rock.
+15:43:21 [INFO] Classified jazz.00022.wav as jazz.
+15:43:22 [INFO] Classified classical.00011.wav as classical.
+15:43:23 [INFO] Classified blues.00000.wav as blues.
+15:43:24 [INFO] Classified classical.00010.wav as classical.
+15:43:26 [INFO] Classified blues.00021.wav as blues.
+15:43:27 [INFO] Classified reggae.00021.wav as reggae.
+15:43:28 [INFO] Classified rock.00044.wav as rock.
+15:43:29 [INFO] Classified jazz.00021.wav as jazz.
+15:43:30 [INFO] Classified rock.00034.wav as rock.
+15:43:31 [INFO] Classified blues.00013.wav as blues.
+15:43:33 [INFO] Classified blues.00012.wav as blues.
+15:43:34 [INFO] Classified jazz.00023.wav as jazz.
+15:43:35 [INFO] Classified blues.00020.wav as blues.
+15:43:36 [INFO] Classified rock.00045.wav as rock.
+15:43:37 [INFO] Classified rock.00036.wav as rock.
+15:43:39 [INFO] Classified rock.00047.wav as rock.

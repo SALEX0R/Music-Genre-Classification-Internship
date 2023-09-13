@@ -1,0 +1,15 @@
+
+# Dataset
+
+DATASET_ROOT = "../GTZAN/Data/"
+DATASET_AUDIO_ROOT = "../GTZAN/Data/genres_original/"
+
+FULL_LENGTH = 30
+SAMPLE_RATE = 22050
+N_MFCC = 40
+N_FFT = 2048
+HOP_LENGTH=512
+
+# Model
+
+LEARNING_RATE=0.001
